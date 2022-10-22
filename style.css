@@ -42,7 +42,7 @@ body {
     margin-right: auto;
     width: 350px;
     background-color: var(--Very-pale-blue);
-    border-radius: 8px;
+    border-radius: 11px;
     overflow: hidden;
     text-align: center;
     box-shadow:  0 10px 30px -1px rgba(68, 50, 226, 0.123);
