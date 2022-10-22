@@ -168,7 +168,7 @@ text-decoration-line: none;
 @media (max-width:478px) {
 
     body{
-        background-image: url(../images/pattern-background-mobile.svg);
+        background-image: url(https://bahgt.github.io/order/images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
 background-size: contain;
 background-position-y: 0px;
